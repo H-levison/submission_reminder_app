@@ -5,7 +5,7 @@ A basic application that alerts students about upcoming assignment deadlines.
 - Created a shell script named ```create_environment.sh```  that automates the creation of the necessary directories and files based on the structure given.
 
 # Files
-```Reminder.sh``` 
-```Functions.sh```
+```reminder.sh``` 
+```functions.sh```
 ```submissions.txt```
 ```config.env```
