@@ -17,7 +17,7 @@ config_file="/submission_reminder_app/config.env"
 #Creating and populating created files
 echo "Done! Now creating files and populating them..."
 cat $reminder_file > app/reminder.sh && chmod +x app/reminder.sh
-cat $functions_file > modules/functions.sh && chmod +X modules/functions.sh
+cat $functions_file > modules/functions.sh && chmod +x modules/functions.sh
 cat $submissions_file > assets/submissions.txt
 cat $config_file > config/config.env
 
