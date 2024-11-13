@@ -9,10 +9,10 @@ mkdir -p submission_reminder_app/{app,modules,assets,config}
 cd submission_reminder_app
 
 #Assigning provided files paths to variables and making them executable
-reminder_file="/submission_reminder_app/reminder.sh"
-functions_file="/submission_reminder_app/functions.sh"
-submissions_file="/submission_reminder_app/submissions.txt"
-config_file="/submission_reminder_app/config.env"
+reminder_file="/submission_reminder_app_H-Levison/reminder.sh"
+functions_file="/submission_reminder_app_H-Levison/functions.sh"
+submissions_file="/submission_reminder_app_H-Levison/submissions.txt"
+config_file="/submission_reminder_app_H-Levison/config.env"
 
 #Creating and populating created files
 echo "Done! Now creating files and populating them..."
